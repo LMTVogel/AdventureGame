@@ -1,0 +1,23 @@
+body {	
+	background-image: url("images/startscherm.jpg");
+	background-size: cover;	
+	background-repeat: no-repeat;
+	text-align: center;
+
+}
+
+#title {
+	font-size: 50px;
+}
+
+#inventoryItem {
+	display: none;
+}
+
+#description {
+	background-color: #AAAAAA;
+}
+
+#button1, #button2, #button3 {
+	text-align: center;
+}
